@@ -18,4 +18,3 @@ def combination(n: int, k: int) -> int:
         result = result * (n - k + i) // i
 
     return result
-    pass
