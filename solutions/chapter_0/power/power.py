@@ -12,3 +12,4 @@ def power(a: int, b: int) -> int:
     for _ in range(b):
         result *= a
     return result
+    
